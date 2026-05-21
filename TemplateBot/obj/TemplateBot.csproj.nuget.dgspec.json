@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DzakyFaris\\Documents\\Project\\Tubes\\TemplateBot\\TemplateBot.csproj": {}
+    "C:\\Users\\ADVAN\\Documents\\GitHub\\Tubes_Starter_Code\\TemplateBot\\TemplateBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DzakyFaris\\Documents\\Project\\Tubes\\TemplateBot\\TemplateBot.csproj": {
+    "C:\\Users\\ADVAN\\Documents\\GitHub\\Tubes_Starter_Code\\TemplateBot\\TemplateBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DzakyFaris\\Documents\\Project\\Tubes\\TemplateBot\\TemplateBot.csproj",
+        "projectUniqueName": "C:\\Users\\ADVAN\\Documents\\GitHub\\Tubes_Starter_Code\\TemplateBot\\TemplateBot.csproj",
         "projectName": "TemplateBot",
-        "projectPath": "C:\\Users\\DzakyFaris\\Documents\\Project\\Tubes\\TemplateBot\\TemplateBot.csproj",
-        "packagesPath": "C:\\Users\\DzakyFaris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DzakyFaris\\Documents\\Project\\Tubes\\TemplateBot\\obj\\",
+        "projectPath": "C:\\Users\\ADVAN\\Documents\\GitHub\\Tubes_Starter_Code\\TemplateBot\\TemplateBot.csproj",
+        "packagesPath": "C:\\Users\\ADVAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADVAN\\Documents\\GitHub\\Tubes_Starter_Code\\TemplateBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DzakyFaris\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ADVAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
